@@ -1,7 +1,19 @@
-# Sample Hardhat 3 Beta Project (minimal)
+A blockchain-based voting application built using Solidity and Hardhat.
+This project allows users to securely vote for candidates using a wallet address, ensuring transparency and preventing double voting.
 
-This project has a minimal setup of Hardhat 3 Beta, without any plugins.
+🚀 Features
 
-## What's included?
+Smart contract-based voting system
+One wallet = one vote
+Prevents duplicate voting
+Real-time vote count retrieval
+Deployed on local Hardhat blockchain
+MetaMask wallet integration
 
-The project includes native support for TypeScript, Hardhat scripts, tasks, and support for Solidity compilation and tests.
+🛠️ Tech Stack
+
+Solidity
+Hardhat
+Ethers.js
+JavaScript
+MetaMask
