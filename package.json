@@ -1,0 +1,11 @@
+{
+  "name": "DApps-Voting",
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^4.0.4",
+    "@types/node": "^22.19.11",
+    "ethers": "^6.16.0",
+    "typescript": "~5.8.0"
+  }
+}
